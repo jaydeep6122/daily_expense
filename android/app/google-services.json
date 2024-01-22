@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272297124640",
+    "project_id": "dailyexpense-bebce",
+    "storage_bucket": "dailyexpense-bebce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272297124640:android:b6efb0dedc7e67dc7bad45",
+        "android_client_info": {
+          "package_name": "com.example.daily_expense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTeR62CRlA2YTfLnEd6qoApMfHlGwf09U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
